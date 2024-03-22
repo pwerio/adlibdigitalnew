@@ -6,21 +6,12 @@ import { Astronav, MenuItems, MenuIcon } from "astro-navbar";
 
 const menuitems = [
   {
-    title: "Features",
-    path: "#",
-    children: [
-      { title: "Action", path: "/" },
-      { title: "Another action", path: "#" },
-      { title: "Dropdown Submenu", path: "#" },
-      { title: "404 Page", path: "/404" },
-    ],
+    title: "Home",
+    path: "/",
   },
   {
-    title: "Pricing",
-    path: "/pricing",
-  },
-  {
-    title: "About",
+    title: "Sobre",
+    badge: true,
     path: "/about",
   },
   {
@@ -28,13 +19,8 @@ const menuitems = [
     path: "/blog",
   },
   {
-    title: "Contact",
+    title: "Contato",
     path: "/contact",
-  },
-  {
-    title: "Pro Version",
-    badge: true,
-    path: "https://astroship-pro.web3templates.com/",
   },
 ];
 ---
@@ -92,7 +78,7 @@ const menuitems = [
     <div>
       <div class="hidden lg:flex items-center gap-4">
         <a href="#">Log in</a>
-        <Link href="#" size="md">Sign up</Link>
+        <Link href="https://wa.me//5511991001961?text=Tenho%20interesse%20em%20conversar%20com%20a%20equipe%20de%20tecnologia" size="md">Contato</Link>
       </div>
     </div>
   </header>
