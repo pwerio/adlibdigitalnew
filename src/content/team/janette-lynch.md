@@ -3,8 +3,8 @@ draft: false
 name: "Eric Nice"
 title: "Diretor"
 avatar: {
-    src: "https://drive.google.com/file/d/1zDR6OhCdLKvowgPagAK2NOuWlcf1X8iN/view?usp=sharing",
-    alt: "Janette Lynch"
+    src: "https://images.unsplash.com/photo-1633332755192-727a05c4013d?&fit=crop&w=280",
+    alt: "Eric Nice Jr"
 }
-publishDate: "2022-11-07 15:39"
+publishDate: "2024-03-15 15:39"
 ---
