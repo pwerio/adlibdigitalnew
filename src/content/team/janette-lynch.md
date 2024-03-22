@@ -1,10 +1,10 @@
 ---
 draft: false
-name: "Eric Nice"
-title: "Diretor"
+name: "SYN"
+title: "Prop & Tech"
 avatar: {
-    src: "https://images.unsplash.com/photo-1633332755192-727a05c4013d?&fit=crop&w=280",
-    alt: "Eric Nice Jr"
+    src: "https://photos.app.goo.gl/U7hksHJS3PnB8VGP6",
+    alt: "SYN"
 }
 publishDate: "2024-03-15 15:39"
 ---
