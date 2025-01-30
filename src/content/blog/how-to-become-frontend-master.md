@@ -6,9 +6,8 @@ image: {
     src: "https://images.unsplash.com/photo-1667372393119-3d4c48d07fc9?&fit=crop&w=430&h=240",
     alt: "web3"
 }
-publishDate: "2024-01-07 15:39"
+publishDate: "2025-01-07 15:39"
 category: "FUTURO DA INTERNET"
-author: "Eric Nice"
 tags: [web3, internet, desenvolvimento, tecnologia]
 ---
 
