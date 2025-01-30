@@ -6,7 +6,7 @@ image: {
     src: "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?&fit=crop&w=430&h=240",
     alt: "full stack web development"
 }
-publishDate: "2024-02-08 11:39"
+publishDate: "2024-12-08 11:39"
 category: "Desenvolvimento Web"
 author: "Eric Nice"
 tags: [webdev, jamstack, frontend, ecommerce, performance]
