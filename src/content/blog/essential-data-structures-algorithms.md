@@ -8,7 +8,6 @@ image: {
 }
 publishDate: "2024-10-09 16:39"
 category: "Blockchain"
-author: "Eric Nice"
 tags: [webdev, cripto, nft]
 ---
 
