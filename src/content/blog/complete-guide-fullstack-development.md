@@ -8,7 +8,6 @@ image: {
 }
 publishDate: "2024-12-08 11:39"
 category: "Desenvolvimento Web"
-author: "Eric Nice"
 tags: [webdev, jamstack, frontend, ecommerce, performance]
 ---
 
